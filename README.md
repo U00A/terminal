@@ -15,7 +15,7 @@ It's that simple.
 ### Compile It
 
 ```bash
-g++ -o neoshell.exe neoshell.cpp -std=c++11
+g++ -o neoshell.exe neoshell.cpp -std=c++11 -static
 ```
 
 ### Run It
